@@ -1,0 +1,2 @@
+IF you encounter an error in visual studio of assembly components not found:
+Copy the web project file somewhere that it is independant like the desktop

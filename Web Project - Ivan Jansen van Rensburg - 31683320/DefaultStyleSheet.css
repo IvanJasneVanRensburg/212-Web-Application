@@ -1,0 +1,96 @@
+﻿body
+{
+    background-image: url('WebApp Images/LoginBG.jpg') ;
+    background-size: cover;
+    background-repeat:no-repeat;
+    width: 450px;
+    height: 300px;
+    color: black;
+    resize: both;
+    overflow: scroll;
+}
+
+.topLabel {
+    font-size: 50px;
+    color: black;
+    
+}
+
+.myLabels
+{
+    font-size: 24px;  
+}
+.textbox {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    border-radius: 25px;
+    outline: none;
+}
+
+
+.myButtons:hover
+{
+    background-color: #7effdc;
+    border: none;
+    color: black;
+}
+.myButtons {
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 24px;
+    height: 75px;
+    width: 216px;
+    border-radius: 50px;
+    outline: none;
+}
+.myRegularButtons {
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    outline: none;
+}
+.myRegularButtons:hover
+{
+    background-color: #7effdc;
+    border: none;
+    color: black;
+}
+
+.myGridview 
+{
+    border: thin solid black;
+    font-family: 'Arial Unicode MS';
+    background-color: mintcream;
+    color: black;
+    font-style: normal;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.myDropdownlists {
+    font-size: 13px;
+    padding: 10px 8px 10px 14px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    position: relative;
+    border-radius: 50px;
+    outline: none;
+}
+
+
